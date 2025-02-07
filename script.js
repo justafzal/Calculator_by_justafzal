@@ -24,4 +24,4 @@ arr.forEach(button => {
         }
         
     })
-})
+});
